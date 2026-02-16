@@ -1,9 +1,9 @@
 Keep this file and signing.keystore in a safe place. You'll need these files if you want to upload future versions of your PWA to the Google Play Store.
 
 Key store file: signing.keystore
-Key store password: 5BDljyw6MgKV
+Key store password: Bl7GZib8CZo4
 Key alias: my-key-alias
-Key password: 5BDljyw6MgKV
+Key password: Bl7GZib8CZo4
 Signer's full name: Farm Manager Admin
 Signer's organization: Farm Manager
 Signer's organizational unit: Engineering
